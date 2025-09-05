@@ -2,7 +2,7 @@
 
 This project focuses on designing and developing a secure and intelligent Automated Teller Machine (ATM) system that integrates advanced authentication mechanisms and AI-based facial recognition to enhance user experience and security.
 
-🔹 Key Features
+#🔹 Key Features #
 
 Facial Recognition using Eigenfaces & CompreFace AI
 Uses machine learning algorithms for real-time face authentication.
@@ -19,7 +19,7 @@ Uses Li-Fi for faster and more secure data transmission compared to traditional 
 Biometric & Multi-Factor Authentication
 Supports facial recognition, PIN, and OTP-based verification for layered security.
 
-🔹 Technologies Used
+#🔹 Technologies Used #
 
 Programming Languages: Python, Java
 
@@ -33,7 +33,7 @@ Security: AES Encryption, OTP via Amazon SNS
 
 Networking: Li-Fi (Light Fidelity) for secure and fast data transfer
 
-🔹 Objectives
+#🔹 Objectives #
 
 Enhance the security of ATM transactions.
 
@@ -43,7 +43,7 @@ Reduce risks related to fraudulent access and card theft.
 
 Improve transaction speed and user experience.
 
-🔹 Results
+#🔹 Results #
 
 Achieved 95% accuracy in facial recognition using Eigenfaces.
 

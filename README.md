@@ -1,4 +1,4 @@
-🏦 Automated Teller Machine (ATM) – Project Overview
+##🏦 Automated Teller Machine (ATM) – Project Overview
 
 This project focuses on designing and developing a secure and intelligent Automated Teller Machine (ATM) system that integrates advanced authentication mechanisms and AI-based facial recognition to enhance user experience and security.
 

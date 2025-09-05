@@ -1,60 +1,70 @@
-## 🏦 Automated Teller Machine (ATM) – Project Overview ##
+##  **🏦 Automated Teller Machine (ATM) – Project Overview**
 
-This project focuses on designing and developing a secure and intelligent Automated Teller Machine (ATM) system that integrates advanced authentication mechanisms and AI-based facial recognition to enhance user experience and security.
+This project focuses on designing and developing an **AI-powered Automated Teller Machine (ATM)** system with **advanced security mechanisms**.  
+Our system improves upon **existing ATM models** by integrating **facial recognition**, **OTP-based authentication**, and **encrypted data transmission** to enhance both **security** and **user experience**.
 
-#🔹 Key Features #
+As part of this project, we also conducted **extensive research** on:
+- Limitations of **existing ATM models**
+- **Security vulnerabilities** and fraud detection methods
+- Use of **AI, ML, and Li-Fi technology** in ATM systems
+- Advanced **biometric authentication techniques**
 
-Facial Recognition using Eigenfaces & CompreFace AI
-Uses machine learning algorithms for real-time face authentication.
+---
 
-OTP-Based Secure Transactions
-Implements one-time password verification via mobile for additional security.
+## ✨ **Key Features**
+- 🔹 **AI-Powered Facial Recognition**  
+  Uses **Eigenfaces** & **CompreFace API** for real-time face authentication.
+- 🔹 **OTP-Based Secure Transactions**  
+  One-Time Passwords sent to registered mobile numbers for transaction approval.
+- 🔹 **End-to-End Encrypted Data Transmission**  
+  Protects sensitive user and transaction data from interception.
+- 🔹 **Li-Fi Technology Integration** *(Research-Based)*  
+  Explored **Li-Fi** for **faster and more secure** communication.
+- 🔹 **Multi-Factor Authentication**  
+  Combines **PIN + OTP + Facial Recognition** for enhanced security.
 
-Encrypted Data Transmission
-Ensures end-to-end encryption between ATM and bank servers to prevent data theft.
+---
 
-Li-Fi Technology Integration (Optional)
-Uses Li-Fi for faster and more secure data transmission compared to traditional Wi-Fi.
+## 🧠 **Research Contribution**
+We conducted **in-depth research** on **existing ATM systems** and identified several security limitations, such as:
+- Vulnerability to **card cloning** and **PIN theft**
+- Unencrypted data transfer between ATMs and bank servers
+- Lack of **biometric authentication** in traditional ATMs
 
-Biometric & Multi-Factor Authentication
-Supports facial recognition, PIN, and OTP-based verification for layered security.
+Based on this research, we **proposed and implemented** a **secure, AI-integrated ATM model** that:
+- Enhances **transaction security** using **multi-factor authentication**
+- Uses **facial recognition algorithms** for real-time verification
+- Integrates **Li-Fi** for improved data transmission speed and security
 
-#🔹 Technologies Used #
+---
 
-Programming Languages: Python, Java
+## 🛠️ **Technologies Used**
+- **Languages:** Python, Java  
+- **Machine Learning:** PCA, Eigenfaces, Support Vector Machines (SVM)  
+- **Facial Recognition:** CompreFace API  
+- **Database:** MySQL / PostgreSQL  
+- **Security:** AES Encryption, OTP (Amazon SNS)  
+- **Networking:** Li-Fi *(research implementation)*  
 
-Machine Learning: PCA, Eigenfaces Algorithm, Support Vector Machines (SVM)
+---
 
-Facial Recognition: CompreFace API
+## 🎯 **Objectives**
+- Strengthen **ATM security** using **AI** and **biometric authentication**
+- Reduce **fraudulent transactions** and **identity theft**
+- Enhance **user experience** with faster and more secure processes
+- Research and adopt **Li-Fi** for next-gen ATM communication
 
-Database: MySQL / PostgreSQL
+---
 
-Security: AES Encryption, OTP via Amazon SNS
+## 📊 **Results**
+- ✅ **95% accuracy** in facial recognition authentication  
+- ✅ Significant reduction in unauthorized transaction attempts  
+- ✅ OTP-based verification improved **transaction security**  
+- ✅ Explored **Li-Fi technology** for **fast encrypted data transfer**   
 
-Networking: Li-Fi (Light Fidelity) for secure and fast data transfer
+---
 
-#🔹 Objectives #
-
-Enhance the security of ATM transactions.
-
-Implement AI-powered authentication using facial recognition.
-
-Reduce risks related to fraudulent access and card theft.
-
-Improve transaction speed and user experience.
-
-#🔹 Results #
-
-Achieved 95% accuracy in facial recognition using Eigenfaces.
-
-Reduced unauthorized transaction attempts by introducing OTP-based verification.
-
-Improved transaction speed with Li-Fi-enabled encrypted communication.
- 
-#### Phase-01 [PHASE-1.pdf](https://github.com/adarshkrsingh07/Mini_Proj/files/14452949/PHASE-1.pdf) Automated Teller Machines.   
-#### Phase-02 [PHASE-2_FINAL.pdf](https://github.com/adarshkrsingh07/Mini_Proj/files/15033908/PHASE-2_FINAL.pdf) It contains PPT related to the this Projects.
-#### Phase-03 [PHASE-3.pdf](https://github.com/adarshkrsingh07/Mini_Proj/files/15034030/PHASE-3.pdf) Final Phase.
-#### Final Report- [FINAL REPORT.pdf](https://github.com/adarshkrsingh07/Mini_Proj/files/15161417/FINAL.REPORT.pdf)
-
-
-
+## 🚀 **How to Use**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/ATM-System.git
